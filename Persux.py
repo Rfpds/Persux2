@@ -1,7 +1,7 @@
 from data.install import *
 
 print("\033[H\033[2J\033[3J") # Clear the screen
-atualizar = input("Deseja atualizar o repositório? [s/n]? ").strip().lower()
+atualizar = input("Atualizar repositório? [s/n]? ").strip().lower()
 if atualizar == 's':
     git_pull()
 
