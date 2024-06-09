@@ -41,5 +41,5 @@ python Persux2.py
 > - Auto atualização ao executar script
 
 
-> *12/05/23 by: gabrielfelipeassuncaodesouza*  
+> *Cópia modificada do Persux!!
 > - Refatoração, opção de atualização e arquivo de gitignore
