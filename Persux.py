@@ -72,7 +72,7 @@ Apoie os desenvolvedores
             nome_letra()
 
         def open_url():
-            os.system(f'termux-open-url https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw')
+            os.system(f'termux-open-url https://#')
             clear()
 
         def sair():
