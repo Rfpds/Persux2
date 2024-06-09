@@ -42,8 +42,7 @@ try:
   {am}[ 6 ] {br}-{cy} Sair
 {ve}┗━━━━━━━━━━━━━━━━━┛
 Apoie os desenvolvedores
-{am}PIX: {vd}5c194b33-b6bf-4bab-91e4-26756c013560 & 
-''')
+{am}PIX: {vd}5c194b33-b6bf-4bab-91e4-26756c013560 & rfpds4880@gmail.com ''')
         menu = str(input(f'{am}//: {br}'))
         if not usr:
             print(f'{cy}~Lursy: {vd}Boa escolha!')
