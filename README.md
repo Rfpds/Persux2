@@ -1,5 +1,4 @@
-# [<img src='https://i.ibb.co/ZTQY1M5/sketch1631563183064.png' />](https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw)
-
+# [<img src='https://i.ibb.co/ZTQY1M5/sketch1631563183064.png' />
 > **ANDROID**
 > - - [ ] **KALI**
 > - - [x] **TERMUX**  
