@@ -12,7 +12,7 @@
 pkg i python -y && pkg i git -y
 git clone https://github.com/Rfpds/Persux2
 cd Persux2`
-python Persux2.py
+python Persux.py
 ``` 
 
 #### *FUNÇÕES*  
